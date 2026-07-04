@@ -4,6 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 
 import "./index.css";
 import App from "./App.jsx";
+
 import { WishlistProvider } from "./Context/WishlistContext";
 import { CartProvider } from "./Context/CartContext.jsx";
 import { SearchProvider } from "./Context/SearchContext.jsx";
