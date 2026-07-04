@@ -5,7 +5,7 @@ import SearchBar from "./components/SearchBar";
 import FilterSidebar from "./components/FilterSidebar";
 import SortDropdown from "./components/SortDropdown";
 import ProductsGrid from "./components/ProductsGrid";
-import Pagination from "./components/Pagination";
+import Pagination from "./components/pagination";
 
 import Container from "../../components/Container/Container";
 

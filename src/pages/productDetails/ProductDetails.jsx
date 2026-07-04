@@ -1,8 +1,8 @@
 import Container from "../../components/Container/Container";
 import useProduct from "../../Hooks/useProduct";
 
-import ProductImage from "./components/ProductImage";
-import ProductInfo from "./components/ProductInfo";
+import ProductImage from "./components/productImage";
+import ProductInfo from "./components/productInfo";
 
 function ProductDetails() {
   const { product, loading, error } = useProduct();
